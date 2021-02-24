@@ -5,6 +5,9 @@ This Is Actually A Game! In this game intially the player will be asked to enter
 ![Output](output.jpg)
 
 Hope you run the code and check each and every option in the main menu.
+
 ![Directory](directory.jpg)
+
 And in the above picture you can see that players.csv is created in the directory where the program is saved. Here you can also delete the player.csv file and it will be created again as soon as you run the code.
+
 ![CSV File](csv.jpg)
